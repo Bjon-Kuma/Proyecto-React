@@ -47,7 +47,11 @@
     color: #fff;
 }
 
-.nav-links-movile {
+.nav-links-mobile {
     display: none;
-    
+
+}
+
+.menu-icon {
+    display: none;
 }
